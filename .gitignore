@@ -1,4 +1,4 @@
-# Built application files
+$ pkg install git
 *.apk
 *.aar
 *.ap_
@@ -36,7 +36,7 @@ proguard/
 # Android Studio captures folder
 captures/
 
-# IntelliJ
+$ pkg install php
 *.iml
 .idea/workspace.xml
 .idea/tasks.xml
@@ -77,7 +77,7 @@ fastlane/readme.md
 # Version control
 vcs.xml
 
-# lint
+$ git clone https://github.com/johar/Bonstri
 lint/intermediates/
 lint/generated/
 lint/outputs/
